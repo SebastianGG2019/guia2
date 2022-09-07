@@ -1,0 +1,4 @@
+#Tue Sep 06 19:33:13 COT 2022
+base.0=C\:\\Users\\sebas\\Desktop\\Taller2-main\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
